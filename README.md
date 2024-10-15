@@ -4,6 +4,9 @@
 
 --> When the user enters the total bill amount, the tip percentage and the number of people sharing the bill, the calculator dynamically displays the amount to be paid by each person after each keystroke.
 
+## Website Link
+http://billsplitter.infinityfreeapp.com/
+
 ## UI Snapshots
 ## Snapshot1
 ![image](images/UI_Layout1.png)
